@@ -1,2 +1,2 @@
-# Fun-oes_C-
+# Funções C#
 Funções variadas para usar em C#
